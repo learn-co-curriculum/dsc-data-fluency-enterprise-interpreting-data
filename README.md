@@ -51,7 +51,7 @@ A good data visualization should effectively communicate the insights and findin
   - Accuracy: The visualization should accurately represent the data it is based on.
   - Simplicity: A good visualization uses the simplest and most efficient means to communicate its message.
   - Effectiveness: The visualization should effectively communicate the message it is intended to, and should be able to convince the viewer of its conclusions.
-Aesthetically pleasing: While not the most important factor, a well-designed visualization can make it more engaging and appealing to the viewer.
+  - Aesthetically pleasing: While not the most important factor, a well-designed visualization can make it more engaging and appealing to the viewer.
   - Flexibility: The visualization should be able to effectively communicate different messages, depending on the audience and the context in which it is used.
 
 The main goal of a meaningful data visualization is to communicate information clearly and effectively, so that the viewer can easily understand the insights and findings that have been derived from the data.
