@@ -8,9 +8,13 @@ Descriptive analytics focuses on understanding and describing what has happened 
 
 One main focus of descriptive analytics is to identify summarization techniques that can help to provide insights in ways that looking at the raw data itself are unable to. This type of analytics can be used to get to know the data, based on its variables. From a structured data perspective, we may be interested in looking for what an “expected value” would be for a column. A column of data in this structured sense is often called a variable. Since the column of data will likely vary and not just be the same value throughout the data, “variable” is a nice phrase for this component. One can use descriptive analysis to examine relationships between variables in the data and whether there are specific portions of one variable related to portions of another variable. For example, maybe one is interested in tracking how shipments are delayed based on daily temperatures or precipitation measures across different seasons in a five year period.
 
+![eda](https://user-images.githubusercontent.com/9215614/210279685-1ab32a0e-8541-4662-8556-be14366defad.png)
+
 Often the first step in descriptive analytics is to explore the variable in the data. This is often called, aptly, exploratory data analysis. This involves searching for patterns and relationships in the data and gauging the main properties of each variable in the data. This can also involve identifying which questions of interest should be examined further and which kinds of problems can actually be addressed with this data. Techniques such as determining the mean, median, and mode (depending on the type of data each variable represents), the variability in each variable, and also the correlation between variables to identify how increases in one variable tend to relate to another variable.
 
 ## Predictive analytics
+
+![prediction](https://user-images.githubusercontent.com/9215614/210279762-0c373802-a14d-4c8a-aa01-09e7a48acc8a.jpeg)
 
 As descriptive analytics focuses on addressing characteristics in the data that has been collected, predictive analytics aims to identify trends in the current data and project them into the future using algorithms and further testing.
 
@@ -39,9 +43,21 @@ Data visualization is important because it can help you understand complex datas
 
 ### Anscombe's quartet
 
+![Anscombe's quartet data](https://user-images.githubusercontent.com/9215614/210279802-c17f4066-24d4-40ce-a943-9572833ab919.png)
+
+What do you think a plot would look like when comparing the x variable to the y variable in each of the four sources? Would the plots be identical? Would the points all fall in the same pattern? 
+
+When we visualize this data, we see that the actual data for these four sources is quite different. This is known as Anscombe's quartet created in the 1970s by Francis Anscombe. It's meant to show the power of data visualization and how outliers can skew statistical results.
+
+![Anscombe's quartet visualized as scatterplots](https://user-images.githubusercontent.com/9215614/210279928-b91b9e71-7e0b-4f07-b320-edf96d0844f7.png)
+
+
 ### Datasaurus dozen
 
-### Cone of uncertainty
+In 2016, Alberto Cairo created an extension of this called the Anscombosaurus or the Datasaurus Dozen to further accentuate this. It's a fun example that was pretty simply created using the computational power we have available to us.
+
+![Datasaurus Dozen](images/datasaurus.gif)
+
 
 ### Best practices
 
