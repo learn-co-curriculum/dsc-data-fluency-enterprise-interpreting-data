@@ -64,3 +64,15 @@ There are several things that should be avoided when creating data visualization
   - Confusing or hard-to-read visualizations: The visualization should be easy to understand and interpret, rather than being confusing or difficult to read.
 
 In summary, it is important to avoid anything that could hinder the effectiveness of the visualization in communicating its message.
+
+## Assessment/learning check questions
+
+1. Which of the main categories of data management do you and your team(s) work with most often?
+2. Where does your data live?
+3. How is data shared with you/across your team(s)? Dashboards, raw, summaries, reports, something else?
+4. Who might have relevant data for you?  
+  a. How do you request access to this data?   
+  b. What steps are needed to get it?  
+5. How is your data archived for long term storage? How often is that data archived?
+
+
