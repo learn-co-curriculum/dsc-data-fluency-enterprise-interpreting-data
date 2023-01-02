@@ -15,12 +15,14 @@ Often the first step in descriptive analytics is to explore the variable in the 
 As descriptive analytics focuses on addressing characteristics in the data that has been collected, predictive analytics aims to identify trends in the current data and project them into the future using algorithms and further testing.
 
 Predictive analytics is a type of data analysis that uses statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data. The goal of predictive analytics is to make predictions about unknown future events. There are many different types of machine learning algorithms, including:
+
   - Supervised learning algorithms: These algorithms are trained on labeled data, meaning that they are given input data and the corresponding correct output. Patterns are identified by these statistical algorithms to understand explanations for the values of the output given particular input data. Examples include linear regression and support vector machines.
   - Unsupervised learning algorithms: These algorithms are not given any labeled training data. Instead, they must discover the relationships in the data through techniques such as clustering. Examples include k-means, anomaly detection, and hierarchical clustering.
   - Reinforcement learning algorithms: These algorithms learn by interacting with their environment and receiving rewards or punishments for certain actions. An example is Q-learning.
   - Deep learning algorithms: These algorithms are inspired by the structure and function of the brain, and are made up of multiple layers of artificial neural networks. They have been particularly successful in image and speech recognition tasks. Examples include convolutional neural networks and long short-term memory networks. They can be used in both supervised and unsupervised machine learning procedures.
 
 Some examples of predictive analytics in business include:
+
   - Fraud detection: Predictive analytics can be used to identify patterns in data that are indicative of fraudulent activity. For example, a bank might use predictive analytics to detect unusual patterns of card usage that could indicate fraudulent activity on a credit card.
   - Customer churn prediction: Predictive analytics can be used to predict which customers are likely to churn (i.e., stop doing business with a company). This can be useful for identifying customers who might be at risk of churning and taking action to prevent it.
   - Predictive maintenance: Predictive analytics can be used to predict when equipment is likely to fail, allowing companies to schedule maintenance before a failure occurs. This can help to reduce downtime and save money.
@@ -44,6 +46,7 @@ Data visualization is important because it can help you understand complex datas
 ### Best practices
 
 A good data visualization should effectively communicate the insights and findings of a data set. There are several characteristics that can make a data visualization effective:
+
   - Clarity: The visualization should clearly convey the message it is intended to, without any unnecessary distractions.
   - Accuracy: The visualization should accurately represent the data it is based on.
   - Simplicity: A good visualization uses the simplest and most efficient means to communicate its message.
@@ -56,6 +59,7 @@ The main goal of a meaningful data visualization is to communicate information c
 ### Things to avoid
 
 There are several things that should be avoided when creating data visualizations:
+
   - Clutter: A visualization should not have too many elements, as this can make it difficult for the viewer to understand the message being conveyed.
   - Distracting design elements: The design of the visualization should support and enhance the message, rather than distract from it.
   - Misleading or inaccurate representation of data: It is important to ensure that the visualization accurately represents the data it is based on.
@@ -64,9 +68,5 @@ There are several things that should be avoided when creating data visualization
   - Confusing or hard-to-read visualizations: The visualization should be easy to understand and interpret, rather than being confusing or difficult to read.
 
 In summary, it is important to avoid anything that could hinder the effectiveness of the visualization in communicating its message.
-
-## Assessment/learning check questions
-
-1. Find at least one “bad” graphic online in your field and lay out what is wrong with it and how it could be improved to better tell a truthful, clarifying story.
 
 
