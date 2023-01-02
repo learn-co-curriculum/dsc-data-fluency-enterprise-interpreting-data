@@ -56,7 +56,7 @@ When we visualize this data, we see that the actual data for these four sources 
 
 In 2016, Alberto Cairo created an extension of this called the Anscombosaurus or the Datasaurus Dozen to further accentuate this. It's a fun example that was pretty simply created using the computational power we have available to us.
 
-![Datasaurus Dozen](images/datasaurus.gif)
+![Datasaurus Dozen](https://blog.revolutionanalytics.com/downloads/DataSaurus%20Dozen.gif)
 
 
 ### Best practices
