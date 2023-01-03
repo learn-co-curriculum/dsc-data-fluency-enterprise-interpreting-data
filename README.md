@@ -87,7 +87,7 @@ In summary, it is important to avoid anything that could hinder the effectivenes
 
 ## Assessment/learning check questions
 
-After reading the content above, take approximately 30 minutes answer this question below:
+After reading the content above, take approximately 30 minutes to answer this question below:
 
 1. Find at least one "bad" graphic online in your field, lay out what is wrong with it, and how it could be improved to better tell a truthful, clarifying story.
 
