@@ -1,12 +1,12 @@
 # Data Fluency - Interpreting Data
 
-So now we have some idea of where we could go looking for data, the next step is to think about how to interpret data and glean important insights from that data. We’ll cover three different important topics for interpreting data: descriptive analytics, predictive analytics, and data visualization.
+So now you have some idea of where you could go looking for data, the next step is to think about how to interpret data and glean important insights from that data. In this section, you will cover three different important topics for interpreting data: descriptive analytics, predictive analytics, and data visualization.
 
 ## Descriptive analytics
 
 Descriptive analytics focuses on understanding and describing what has happened in the past. In other words, it provides a way of seeing what your organization’s historical data describes to you about trends or patterns in your business. It involves summarizing data and presenting it in a way that makes it easy to understand and interpret. Descriptive analytics tools and techniques also include things like charts, graphs, and tables, which can be used to visualize data and identify trends and patterns. The goal of descriptive analytics is to provide a clear and concise summary of what has happened in the past, and to understand the factors that may have contributed to certain outcomes. It is a useful tool for understanding historical data and can help inform decision making, but it does not attempt to predict future outcomes or prescribe actions.
 
-One main focus of descriptive analytics is to identify summarization techniques that can help to provide insights in ways that looking at the raw data itself are unable to. This type of analytics can be used to get to know the data, based on its variables. From a structured data perspective, we may be interested in looking for what an “expected value” would be for a column. A column of data in this structured sense is often called a variable. Since the column of data will likely vary and not just be the same value throughout the data, “variable” is a nice phrase for this component. One can use descriptive analysis to examine relationships between variables in the data and whether there are specific portions of one variable related to portions of another variable. For example, maybe one is interested in tracking how shipments are delayed based on daily temperatures or precipitation measures across different seasons in a five year period.
+One main focus of descriptive analytics is to identify summarization techniques that can help to provide insights in ways that looking at the raw data itself are unable to. This type of analytics can be used to get to know the data, based on its variables. From a structured data perspective, you may be interested in looking for what an “expected value” would be for a column. A column of data in this structured sense is often called a variable. Since the column of data will likely vary and not just be the same value throughout the data, “variable” is a nice phrase for this component. You can use descriptive analysis to examine relationships between variables in the data and whether there are specific portions of one variable related to portions of another variable. For example, maybe you are interested in tracking how shipments are delayed based on daily temperatures or precipitation measures across different seasons in a five year period.
 
 ![eda](https://user-images.githubusercontent.com/9215614/210279685-1ab32a0e-8541-4662-8556-be14366defad.png)
 
@@ -39,7 +39,7 @@ Predictive analytics can be used in a wide range of industries and applications 
 
 ## Data visualization
 
-Data visualization is important because it can help you understand complex datasets and communicate your findings to others in a clear and concise manner. When you visualize data, you can quickly see patterns and trends that may not be immediately apparent when looking at raw data. This can help you identify relationships and make more informed decisions. Additionally, data visualization allows you to communicate your findings to others in a way that is easy for them to understand, which is especially useful when presenting results to non-technical audiences. We’ll next dig into an example that shows the power of visualization where summary descriptive analysis may lead us in a different direction.
+Data visualization is important because it can help you understand complex datasets and communicate your findings to others in a clear and concise manner. When you visualize data, you can quickly see patterns and trends that may not be immediately apparent when looking at raw data. This can help you identify relationships and make more informed decisions. Additionally, data visualization allows you to communicate your findings to others in a way that is easy for them to understand, which is especially useful when presenting results to non-technical audiences. Next, you will dig into an example that shows the power of visualization where summary descriptive analysis may lead you in a different direction.
 
 ### Anscombe's quartet
 
@@ -47,14 +47,14 @@ Data visualization is important because it can help you understand complex datas
 
 What do you think a plot would look like when comparing the x variable to the y variable in each of the four sources? Would the plots be identical? Would the points all fall in the same pattern? 
 
-When we visualize this data, we see that the actual data for these four sources is quite different. This is known as Anscombe's quartet created in the 1970s by Francis Anscombe. It's meant to show the power of data visualization and how outliers can skew statistical results.
+When you visualize this data, you see that the actual data for these four sources is quite different. This is known as Anscombe's quartet created in the 1970s by Francis Anscombe. It's meant to show the power of data visualization and how outliers can skew statistical results.
 
 ![Anscombe's quartet visualized as scatterplots](https://user-images.githubusercontent.com/9215614/210279928-b91b9e71-7e0b-4f07-b320-edf96d0844f7.png)
 
 
 ### Datasaurus dozen
 
-In 2016, Alberto Cairo created an extension of this called the Anscombosaurus or the Datasaurus Dozen to further accentuate this. It's a fun example that was pretty simply created using the computational power we have available to us.
+In 2016, Alberto Cairo created an extension of this called the Anscombosaurus or the Datasaurus Dozen to further accentuate this. It's a fun example that was pretty simply created using the available computational power.
 
 ![Datasaurus Dozen](https://blog.revolutionanalytics.com/downloads/DataSaurus%20Dozen.gif)
 
